@@ -8,7 +8,7 @@
 
 # Software
 
-### Eclipse  ou Intellij
+### Eclipse  ou Intellij.
 
 
 
